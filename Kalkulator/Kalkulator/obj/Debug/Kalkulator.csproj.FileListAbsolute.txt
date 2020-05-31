@@ -1,0 +1,18 @@
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\aan\Documents\Kuliah\Pemrogrman Visual\Tugas\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\SEM4\PEMVIS\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
